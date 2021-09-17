@@ -45,6 +45,7 @@ function Main() {
       <th className="w-50 h-50 col-md-4"><button value="=" onClick={listener} type="button" className="btn justify-content-center  btn-warning">=</button></th>
     </tr>
     </table>
+    <h1 className="mt-4" style={{color:"white"}}>calculator made by Arsh using <a href="reactjs.org" target=" _blank">Reactjs</a></h1>
     </div>
   );
 }
